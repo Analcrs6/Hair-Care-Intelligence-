@@ -18,7 +18,8 @@ from raw product data to actionable formulation insights.
 
 ## Dashboard
 
-![Dashboard](figures/haircare_intelligence_dashboard_final.png)
+![Dashboard](<img width="2478" height="1982" alt="haircare_intelligence_dashboard" src="https://github.com/user-attachments/assets/c4812f61-1eba-49ef-b060-57de635eb471" />
+)
 
 ---
 
